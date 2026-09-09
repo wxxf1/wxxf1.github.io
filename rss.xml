@@ -6,7 +6,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 
 <title>EGS Arena — Акции</title>
 
-<link>https://egs.github.io/</link>
+<link>https://wxxf1.github.io/</link>
 
 <description>Акции компьютерного клуба EGS Arena</description>
 
@@ -17,18 +17,18 @@ xmlns:media="http://search.yahoo.com/mrss/">
 
 <title>ФУЛЛ ПАТИ — скидка 10%</title>
 
-<link>https://egs.github.io/fullparty.jpg</link>
+<link>https://wxxf1.github.io/fullparty.jpg</link>
 
 <guid>egs-fullparty-001</guid>
 
 <description><![CDATA[
-<img src="https://egs.github.io/fullparty.jpg" width="100%" />
+<img src="https://wxxf1.github.io/fullparty.jpg" width="100%" />
 <br><br>
 Если вы занимаете 5 компьютеров в арене — получите скидку 10% на игровое время!
 ]]></description>
 
 <media:content
-url="https://egs.github.io/fullparty.jpg"
+url="https://wxxf1.github.io/fullparty.jpg"
 medium="image"
 type="image/jpeg"/>
 
@@ -39,18 +39,18 @@ type="image/jpeg"/>
 
 <title>АКЦИЯ 3+2</title>
 
-<link>https://seg.github.io/akciya-3plus2.jpg</link>
+<link>https://wxxf1.github.io/3plus2.jpg</link>
 
 <guid>egs-3plus2-002</guid>
 
 <description><![CDATA[
-<img src="https://egs.github.io/akciya-3plus2.jpg" width="100%" />
+<img src="https://wxxf1.github.io/3plus2.jpg" width="100%" />
 <br><br>
 Купи пакет на 3 часа и получи 2 часа в подарок!
 ]]></description>
 
 <media:content
-url="https://egs.github.io/3plus2.jpg"
+url="https://wxxf1.github.io/3plus2.jpg"
 medium="image"
 type="image/jpeg"/>
 
@@ -61,12 +61,12 @@ type="image/jpeg"/>
 
 <title>РЕФЕРАЛЬНАЯ ПРОГРАММА — 300 БАЛЛОВ</title>
 
-<link>https://egs.github.io/referal-300.jpg</link>
+<link>https://wxxf1.github.io/referal300.jpg</link>
 
 <guid>egs-referal-003</guid>
 
 <description><![CDATA[
-<img src="https://egs.github.io/referal300.jpg" width="100%" />
+<img src="https://wxxf1.github.io/referal300.jpg" width="100%" />
 <br><br>
 Приведи друга и получи 300 баллов в подарок!
 
@@ -74,7 +74,7 @@ type="image/jpeg"/>
 ]]></description>
 
 <media:content
-url="https://egs.github.io/referal-300.jpg"
+url="https://wxxf1.github.io/referal300.jpg"
 medium="image"
 type="image/jpeg"/>
 
