@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+
+<title>EGS Arena — Акции</title>
+
+<link>https://egs.github.io/</link>
+
+<description>Акции компьютерного клуба EGS Arena</description>
+
+<language>ru</language>
+
+
+<item>
+
+<title>ФУЛЛ ПАТИ — скидка 10%</title>
+
+<link>https://egs.github.io/fullparty.jpg</link>
+
+<guid>egs-fullparty-001</guid>
+
+<description><![CDATA[
+<img src="https://egs.github.io/fullparty.jpg" width="100%" />
+<br><br>
+Если вы занимаете 5 компьютеров в арене — получите скидку 10% на игровое время!
+]]></description>
+
+<media:content
+url="https://egs.github.io/fullparty.jpg"
+medium="image"
+type="image/jpeg"/>
+
+</item>
+
+
+<item>
+
+<title>АКЦИЯ 3+2</title>
+
+<link>https://seg.github.io/akciya-3plus2.jpg</link>
+
+<guid>egs-3plus2-002</guid>
+
+<description><![CDATA[
+<img src="https://egs.github.io/akciya-3plus2.jpg" width="100%" />
+<br><br>
+Купи пакет на 3 часа и получи 2 часа в подарок!
+]]></description>
+
+<media:content
+url="https://egs.github.io/3plus2.jpg"
+medium="image"
+type="image/jpeg"/>
+
+</item>
+
+
+<item>
+
+<title>РЕФЕРАЛЬНАЯ ПРОГРАММА — 300 БАЛЛОВ</title>
+
+<link>https://egs.github.io/referal-300.jpg</link>
+
+<guid>egs-referal-003</guid>
+
+<description><![CDATA[
+<img src="https://egs.github.io/referal300.jpg" width="100%" />
+<br><br>
+Приведи друга и получи 300 баллов в подарок!
+
+Условие: друг еще не был у нас в клубе, не имеет нашего клубного аккаунта и пополнит счет от 500 рублей.
+]]></description>
+
+<media:content
+url="https://egs.github.io/referal-300.jpg"
+medium="image"
+type="image/jpeg"/>
+
+</item>
+
+
+</channel>
+
+</rss>
